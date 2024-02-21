@@ -23,7 +23,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 ### :fire: Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suix0&theme=dark&border_radius=2.5)](https://git.io/streak-stats)
-<a href="https://app.daily.dev/nethangabriel"><img src="https://api.daily.dev/devcards/v2/P7eHiBgts46WfqLXNBZUE.png?r=2x3&type=default" width="356" alt="Nethan Gabriel's Dev Card"/></a>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
