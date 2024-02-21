@@ -1,12 +1,13 @@
 ### Hi! I'm Nethan 👋
 
 
-### 👨‍💻: About Me :
+### 👨‍💻 About Me :
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
 
-🔭 I’m currently learning along in TheOdinProject - JavaScript curriculum.
+🔭 I’m currently learning along in TheOdinProject - JavaScript curriculum. <br>
 🌱 Exploring AI and Machine Learning
 <hr>
+
 ### 🛠️ Programming Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -16,6 +17,8 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<hr>
 
 ### :fire: Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suix0&theme=dark&border_radius=2.5)](https://git.io/streak-stats)
