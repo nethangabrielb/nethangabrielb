@@ -1,4 +1,4 @@
-### Hi! I'm Nethan 👋
+## Hi! I'm Nethan 👋
 
 
 ### 👨‍💻 About Me :
