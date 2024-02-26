@@ -23,9 +23,9 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 ### :fire: Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suix0&theme=dark&border_radius=2.5)](https://git.io/streak-stats)
-<div style="margin-bottom: auto">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
