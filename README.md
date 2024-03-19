@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=suix0.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
 
 ## Hi! I'm Nethan 👋
 
