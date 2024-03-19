@@ -1,8 +1,11 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=suix0,visitor-badge)
+
 ## Hi! I'm Nethan 👋
 
 
 ### 👨‍💻 About Me :
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
+
 
 🔭 I’m currently learning along in TheOdinProject - JavaScript curriculum. <br>
 🌱 Exploring AI and Machine Learning
