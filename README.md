@@ -4,7 +4,7 @@
 
 
 ### 👨‍💻 About Me :
-I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
+I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
 🔭 I’m currently learning along in TheOdinProject - JavaScript curriculum. <br>
