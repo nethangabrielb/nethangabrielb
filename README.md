@@ -4,7 +4,7 @@
 
 
 ### 👨‍💻 About Me :
-Aspiring Full Stack Developer ![Funny GIF](https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif)
+Aspiring Full Stack Developer <img src="https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="32" height="32" alt="Funny GIF">
 
 
 
