@@ -4,7 +4,8 @@
 
 
 ### 👨‍💻 About Me :
-Aspiring Full Stack Developer <iframe src="https://giphy.com/embed/kz6cm1kKle2MYkHtJF" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moodman-kz6cm1kKle2MYkHtJF">via GIPHY</a></p>
+Aspiring Full Stack Developer ![Funny GIF](https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif)
+
 
 
 🔭 I’m currently learning along in TheOdinProject - JavaScript curriculum. <br>
