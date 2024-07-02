@@ -4,7 +4,7 @@
 
 
 ### 👨‍💻 About Me :
-Aspiring Full Stack Developer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp3MmhiYWpvMzU4cnZibTB1Y3VpbzRiOThkZ2s4eWhrZ2l5azVxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif)" width="30">.
+Aspiring Full Stack Developer <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/kz6cm1kKle2MYkHtJF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 
 🔭 I’m currently learning along in TheOdinProject - JavaScript curriculum. <br>
