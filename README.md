@@ -8,7 +8,7 @@ Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 
 
-🔭 I’m currently learning along in TheOdinProject - JavaScript curriculum. <br>
+🔭 I’m currently learning in TheOdinProject - Full-stack JavaScript curriculum.  <br>
 🌱 Exploring AI and Machine Learning
 <hr>
 
