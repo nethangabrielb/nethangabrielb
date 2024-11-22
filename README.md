@@ -4,12 +4,11 @@
 
 
 ### 👨‍💻 About Me :
-Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" height="32">
+Just an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" height="32">
 
 
 
-🔭 I’m currently learning in TheOdinProject - Full-stack JavaScript curriculum.  <br>
-🌱 Exploring AI and Machine Learning
+
 <hr>
 
 ### 🛠️ Languages & Tools
