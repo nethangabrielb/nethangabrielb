@@ -27,8 +27,8 @@ Just an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 <hr>
 
 ### :fire: Stats
-![suix0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-<br>
 ![suix0's Stats](https://github-readme-stats.vercel.app/api?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![suix0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=suix0&theme=tokyonight&hide_border=true)
+<br>
+![suix0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
