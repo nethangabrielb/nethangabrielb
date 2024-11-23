@@ -5,7 +5,7 @@
 
 ## Hi! I'm Nethan 👋
 
-### 👨‍💻 About Me :
+### 👨‍💻 About Me
 Just an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" height="32">
 
 <hr>
@@ -26,9 +26,9 @@ Just an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 <hr>
 
-### :fire: Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suix0&theme=dark&border_radius=2.5)](https://git.io/streak-stats)
+### :fire: Stats
+![suix0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![suix0's Stats](https://github-readme-stats.vercel.app/api?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![suix0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=suix0&theme=tokyonight&hide_border=true)
 </div>
