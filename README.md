@@ -1,3 +1,4 @@
+<div style="align: center">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id}) ![](https://komarev.com/ghpvc/?username=suix0)
 
 ## Hi! I'm Nethan 👋
@@ -31,7 +32,7 @@ Just an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suix0&theme=dark&border_radius=2.5)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 
 
