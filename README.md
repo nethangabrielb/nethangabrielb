@@ -40,9 +40,4 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/suix0/suix0/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
 </div>
