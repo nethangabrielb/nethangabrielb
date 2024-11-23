@@ -1,4 +1,4 @@
-<div style="align: center">
+<div align: "center">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id}) ![](https://komarev.com/ghpvc/?username=suix0)
 
 ## Hi! I'm Nethan 👋
