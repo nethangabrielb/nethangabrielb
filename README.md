@@ -28,16 +28,5 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="300px" alt="Top Languages"/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suix0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
 ---
 </div>
