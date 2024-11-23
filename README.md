@@ -1,42 +1,48 @@
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=suix0.cvmaker)  
-![](https://komarev.com/ghpvc/?username=suix0&color=blue)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
+![](https://komarev.com/ghpvc/?username=suix0)
 
-# Hi! I'm Nethan 👋  
-### Aspiring Full Stack Developer  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" height="32">
+# 👋 Hi there, I'm Nethan 
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B77F7&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 
-### 🛠️ Languages & Tools  
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
+<p>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" height="32">
+  <em>Building the future, one line of code at a time</em>
+</p>
+
+## 💻 Tech Stack
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,mysql,git,webpack&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400px" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suix0&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" width="400px" alt="GitHub Streak"/>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="300px" alt="Top Languages"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suix0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
 </div>
 
 ---
 
-### 🔥 Stats  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suix0&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-### 🚀 Top Languages  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="60%" />
-</div>
+<p align="center">
+  <img src="https://github.com/suix0/suix0/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 </div>
-****
