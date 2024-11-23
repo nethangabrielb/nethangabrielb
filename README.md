@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
+  <table border="none">
     <tr>
       <td valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400px" alt="GitHub Stats"/>
