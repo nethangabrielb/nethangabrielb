@@ -27,9 +27,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400px" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=suix0&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" width="400px" alt="GitHub Streak"/>
   </div>
-  
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="300px" alt="Top Languages"/>
   </div>
+  
 </div>
+
 </div>
