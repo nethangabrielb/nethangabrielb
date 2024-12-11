@@ -21,9 +21,9 @@
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&card_width=450" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=450&langs_count=6" width="45%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&card_width=450" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=450&langs_count=6" alt="Top Languages"/>
 </div>
 </div>
