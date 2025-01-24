@@ -12,7 +12,7 @@
   <em>Building the future, one line of code at a time</em>
 </p>
 
-## 💻 Tech Stack
+## 🔧 Development Toolkit
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   
