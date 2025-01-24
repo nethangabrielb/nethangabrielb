@@ -16,7 +16,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,cpp,mysql,git,webpack,vitest,jest&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,webpack,vitest,jest,python,mysql,java,cpp&theme=dark)](https://skillicons.dev)
 
 </div>
 
