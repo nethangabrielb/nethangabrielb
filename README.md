@@ -8,8 +8,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B77F7&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 
 <p>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" height="32">
-  <em>Building the future, one line of code at a time</em>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34" height="34">
+  <i>Building the future, one line of code at a time</i>
 </p>
 
 ## 🔧 Development Toolkit
