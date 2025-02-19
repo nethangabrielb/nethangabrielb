@@ -41,7 +41,6 @@ Hey there! I'm a passionate developer who loves building things for the web. I b
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Neon](https://img.shields.io/badge/-Neon-FF3264?style=flat&logo=neon&logoColor=white)
 
 
 ## 📊 GitHub Analytics
