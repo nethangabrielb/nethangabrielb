@@ -61,7 +61,7 @@ Hey there! I'm a passionate developer who loves building things for the web. I b
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suix0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethan-gabriel-b-9401b7271)
 
 </div>
 
