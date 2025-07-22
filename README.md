@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nethan B. (@suix0) 👨‍💻
+# Nethan B. (@nethangabrielb) 👨‍💻
 
 [![Profile Views](https://komarev.com/ghpvc/?username=suix0&color=blueviolet)](https://github.com/suix0)
 
