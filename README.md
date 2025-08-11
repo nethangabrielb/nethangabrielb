@@ -15,7 +15,7 @@ Hey there! Not much about me just that I love learning new things and creating s
 - 🔭 Currently working on expanding my full-stack development skills
 - 🌱 Always learning and staying up-to-date with modern web technologies
 - 💡 Always gonna strive in creating efficient, scalable, and user-friendly applications
-- 🤝 Open to collaborations and contributing to interesting projects so please hmu!
+- 🤝 Open to collaborations and contributing to interesting projects!
 
 ## 🔧 Development Toolkit
 
