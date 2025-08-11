@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-Hey there! I'm a passionate developer who loves building things for the web. I believe in the power of code to transform ideas into reality and am constantly exploring new technologies to expand my skill set.
+Hey there! Not much about me just that I love learning new things and creating stuffs with what I learn :)
 
 - 🔭 Currently working on expanding my full-stack development skills
 - 🌱 Always learning and staying up-to-date with modern web technologies
