@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
 
 # Nethan B. (@nethangabrielb) 👨‍💻
 
@@ -8,16 +8,16 @@
 
 </div>
 
-## 🌟 About Me
+## About Me
 
-Hey there! Not much about me just that I love learning new things and creating stuffs with what I learn :)
+hello i am dev :D
 
-- 🔭 Currently working on expanding my full-stack development skills
-- 🌱 Always learning and staying up-to-date with modern web technologies
-- 💡 Always gonna strive in creating efficient, scalable, and user-friendly applications
-- 🤝 Open to collaborations and contributing to interesting projects!
+- currently working on expanding my full-stack development skills
+- always learning and staying up-to-date with modern web technologies
+- i want to strive in creating efficient,**really really scalable**, and user-friendly applications
+- open to collaborations and contributing to interesting projects!
 
-## 🔧 Development Toolkit
+## Development Toolkit
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -43,20 +43,6 @@ Hey there! Not much about me just that I love learning new things and creating s
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suix0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suix0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suix0&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
-</div>
 
 ## 📫 Connect With Me
 
