@@ -12,7 +12,7 @@
 
 hello i am dev :D
 
-- currently working on expanding my full-stack development skills
+- currently working on expanding my full-stack development skills and learning software architecture and scaling applications
 - always learning and staying up-to-date with modern web technologies
 - i want to strive in creating efficient, **really really scalable**, and user-friendly applications
 - open to collaborations and contributing to interesting projects!
