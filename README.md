@@ -10,7 +10,7 @@
 
 ## About Me
 
-hello i am dev :D
+hello i am dev
 
 - currently working on expanding my full-stack development skills, learning complex software architecture, and scaling applications
 - always learning and staying up-to-date with modern web technologies
