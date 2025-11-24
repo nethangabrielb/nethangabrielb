@@ -12,7 +12,7 @@
 
 - currently working on expanding my full-stack development skills
 - always learning and staying up-to-date with modern web technologies
-- interested in modern system designs and scalable architecture
+- interested in modern system designs and scalable software architecture
 - open to collaborations and contributing to interesting projects!
 
 ## Development Toolkit
