@@ -10,11 +10,9 @@
 
 ## About Me
 
-hello i am dev
-
-- currently working on expanding my full-stack development skills, learning complex software architecture, and scaling applications
+- currently working on expanding my full-stack development skills
 - always learning and staying up-to-date with modern web technologies
-- i want to strive in creating efficient, **really really scalable**, and user-friendly applications
+- interested in modern system designs and scalable architecture
 - open to collaborations and contributing to interesting projects!
 
 ## Development Toolkit
