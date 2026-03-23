@@ -1,68 +1,123 @@
-<div align="start">
+<div align="center">
 
-# Nethan B. (@nethangabrielb) 👨‍💻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=120&section=header&text=Nethan%20Gabriel%20B.&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=suix0&color=blueviolet)](https://github.com/suix0)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Django;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=500&lines=Aspiring+Full+Stack+Developer;Always+Learning+%26+Growing" alt="Typing SVG" />
+[![Profile Views](https://komarev.com/ghpvc/?username=suix0&style=for-the-badge&color=0A84FF&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/suix0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/nethan-gabriel-b-9401b7271)
 
 </div>
 
-## About Me
+---
 
-- currently working on expanding my full-stack development skills
-- always learning and staying up-to-date with modern web technologies
-- interested in modern system designs and scalable software architecture
-- open to collaborations and contributing to interesting projects!
+## `$ whoami`
 
-## Development Toolkit
+```yaml
+name:       Nethan Gabriel B.
+role:       Full Stack Developer
+location:   Philippines 🇵🇭
+status:     Actively learning & building
+focus:
+  - Expanding full-stack development skills
+  - Modern system design & scalable architecture
+  - Contributing to meaningful open-source projects
+interests:
+  - Web Performance & Optimization
+  - Clean, maintainable code
+  - AI integrations
+open_to:    Collaborations, freelance, internships
+```
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zustand&logoColor=white)
-![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+---
 
-### DevOps & Deployment
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+## `$ ls ~/toolkit`
 
-## 📫 Connect With Me
+### ⬡ Frontend
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethan-gabriel-b-9401b7271)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+</div>
+
+### ⬡ Backend
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</div>
+
+### ⬡ DevOps & Deployment
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat ~/stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nethangabrielb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&ring_color=00C2FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethangabrielb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com?user=nethangabrielb&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6B6B&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=8B949E" />
+
+</div>
+
+---
+
+## `$ tail -1 ~/philosophy.txt`
+
+<div align="center">
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+> — Cory House
+
+<br/>
+
+**Let's build something great together.**
+
+[![LinkedIn](https://img.shields.io/badge/Reach_Out_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethan-gabriel-b-9401b7271)
 
 </div>
 
 ---
 
 <div align="center">
-    <br />
-    <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00C2FF&height=80&section=footer&reversal=false" />
 </div>
