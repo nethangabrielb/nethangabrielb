@@ -21,12 +21,12 @@ status:     Actively learning & building
 focus:
   - Expanding full-stack development skills
   - Modern system design & scalable architecture
-  - Contributing to meaningful open-source projects
+  - API Design & Contract-First Development
 interests:
   - Web Performance & Optimization
   - Clean, maintainable code
   - AI integrations
-open_to:    Collaborations, freelance, internships
+open_to:    Collaborations, freelance, full-time roles
 ```
 
 ---
