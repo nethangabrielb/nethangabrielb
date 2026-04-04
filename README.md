@@ -92,8 +92,8 @@ open_to:    Collaborations, freelance, full-time roles
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nethangabrielb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&ring_color=00C2FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethangabrielb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=c9d1d9" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nethangabrielb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&ring_color=00C2FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethangabrielb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=c9d1d9" /> -->
 
 <img src="https://streak-stats.demolab.com?user=nethangabrielb&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6B6B&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=8B949E" />
 
