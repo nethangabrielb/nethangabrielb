@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=120&section=header&text=Nethan%20Gabriel%20B.&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=120&section=header&text=Nethan%20Gabriel%20B.%20Bagasbas&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express.js;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 ## `$ whoami`
 
 ```yaml
-name:       Nethan Gabriel B.
+name:       Nethan Gabriel B. Bagasbas
 role:       Full Stack Developer
 location:   Philippines 🇵🇭
 status:     Actively learning & building
