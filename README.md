@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express.js;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nethangabrielb&style=for-the-badge&color=0A84FF&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/nethangabrielb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/nethan-gabriel-b-9401b7271)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/nethangabrielb)
 
 </div>
 
@@ -110,7 +110,7 @@ open_to:    Collaborations, freelance, full-time roles
 
 **Let's build something great together.**
 
-[![LinkedIn](https://img.shields.io/badge/Reach_Out_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethan-gabriel-b-9401b7271)
+[![LinkedIn](https://img.shields.io/badge/Reach_Out_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethangabrielb)
 
 </div>
 
